@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Sidebar component renders ul 1`] = `
+<DocumentFragment>
+  <ul
+    id="side"
+  >
+    <h2>
+      Sidebar Stuff
+    </h2>
+  </ul>
+</DocumentFragment>
+`;
